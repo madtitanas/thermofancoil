@@ -1,0 +1,12 @@
+	.gitignore
+	.idea/
+	HeatingPanels/Panel.pyc
+	HeatingPanels/__init__.py
+	HeatingPanels/__init__.pyc
+	HeatingPanels/innova-rs1000
+	HeatingPanels/innova-rs600
+	HeatingPanels/innova-rs800
+	jaga
+	jaga.ods
+	thermal.log
+
