@@ -1,4 +1,3 @@
-	.gitignore
 	.idea/
 	HeatingPanels/Panel.pyc
 	HeatingPanels/__init__.py
